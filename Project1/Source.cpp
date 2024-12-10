@@ -3,6 +3,7 @@
 #include <bitset>
 //add comm for teammate
 // switch bitset in 8 to 32
+//add teammate comm
 using namespace std;
 
 int main() {

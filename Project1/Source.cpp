@@ -4,6 +4,7 @@
 // useless comm
 //add comm for teammate
 // switch bitset in 8 to 32
+// useful comm
 using namespace std;
 
 int main() {

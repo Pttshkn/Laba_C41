@@ -1,6 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include <bitset>
+// useless comm
 //add comm for teammate
 // switch bitset in 8 to 32
 //add teammate comm
